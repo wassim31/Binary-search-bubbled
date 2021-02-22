@@ -9,10 +9,13 @@ Best complexity: O(1)
 Space complexity: O(1)
 Data structure: Array
 Class: Search algorithm
+
 ![alt text](https://www.geeksforgeeks.org/wp-content/uploads/Binary-Search.png)
 
 2- Bubble Sort: is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 
 worst-case and average complexity of О(n^2)
+
+
 ![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/02/bubble-sort1.png)
 
