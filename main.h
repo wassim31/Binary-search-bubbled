@@ -1,9 +1,9 @@
 #ifndef MAIN_H_INCLUDED
 #define MAIN_H_INCLUDED
-void bubble_sort(int *array, int SIZE);
-void array_print(int *array, int SIZE);
-void array_init(int *array, int SIZE);
-int binary_search(int *array, int min, int max_one, int searched_number);
+void bubble_sort(int *array, int size);
+void array_print(int *array, int size);
+void array_init(int *array, int size);
+int binary_search(int *array, int start, int finish, int searched_number);
 void swap(int *a, int *b);
 
 
